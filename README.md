@@ -1,1 +1,1 @@
-"# BCDiscreteMath2017" 
+# BCDiscreteMath2017
