@@ -41,15 +41,23 @@ def playGame():
 def playAI():
     global guesses
     cur = -1
+    # ------------------------------
+    # vvv Add Variables Here vvv
+    # ------------------------------
+
+
+
+    # ------------------------------
+
     while (cur != 0):
         guesses += 1
-        # -------------------------
-        # vvv Add Code Here vvv
-        # -------------------------
+        # ------------------------------
+        # vvv Add Loop Code Here vvv
+        # ------------------------------
 
 
 
-        # -------------------------
+        # ------------------------------
 
 genNum()
 print("I'm thinking of a secret number between 1 and 100 (inclusive). Try and guess it!")
